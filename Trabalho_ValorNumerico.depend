@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555498543 source:c:\users\joão\documents\para backup\projetos c++\trabalho_valornumerico\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<math.h>
+
